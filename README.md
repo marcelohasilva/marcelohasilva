@@ -1,11 +1,5 @@
-## Oi eu Marcelo Henrique
 
-
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando Typescript
-- 😄 Pronouns: ele/dele
-
-<!-- 🌐 GitHub Profile README - Marcelo Henrique Silva -->
+<!-- 🌐 GitHub Profile README - Marcelo Henrique -->
 
 <h1 align="center">👋 Olá, eu sou Marcelo Henrique</h1>
 
