@@ -1,5 +1,4 @@
-
-<!-- 🌐 GitHub Profile README - Marcelo Henrique -->
+<!-- 🌐 GitHub Profile README - Marcelo Henrique Silva -->
 
 <h1 align="center">👋 Olá, eu sou Marcelo Henrique</h1>
 
@@ -32,8 +31,8 @@ Atualmente estou focado em **React, TypeScript e Svelte**, desenvolvendo projeto
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelohasilva&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohasilva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelohasilva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohasilva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="165" />
 </div>
 
 ---
@@ -64,5 +63,5 @@ Atualmente estou focado em **React, TypeScript e Svelte**, desenvolvendo projeto
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcelohasilva&color=0078D4&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=marcelohasilva&color=0078D4&style=flat-square" alt="Visualizações de perfil" />
 </p>
