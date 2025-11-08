@@ -50,7 +50,7 @@ Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que une
 
 <p align="center">
   <a href="mailto:marcelo.hasilva06@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/marcelo-henrique-almeida-da-silva-821232272"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marcelo-henrique-almeida-da-silva-821232272/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/marcelohasilva"><img src="https://img.shields.io/badge/GitHub-0078D4?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
