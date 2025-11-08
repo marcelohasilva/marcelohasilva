@@ -37,6 +37,12 @@ Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que une
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcelohasilva/marcelohasilva/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
