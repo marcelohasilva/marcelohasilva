@@ -66,11 +66,5 @@ Atualmente estou focado em **React, TypeScript e Svelte**, desenvolvendo projeto
   <img src="https://komarev.com/ghpvc/?username=marcelohasilva&color=0078D4&style=flat-square" alt="Visualizações de perfil" />
 </p>
 
----
 
-### 🐍 Minhas contribuições em movimento
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marcelohasilva/marcelohasilva/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
