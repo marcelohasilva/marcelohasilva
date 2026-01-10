@@ -31,7 +31,8 @@ Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que une
 ### 📊 Estatísticas
 
 <div align="center">
-   <img src="https://metrics.lecoq.io/marcelohasilva?template=classic&languages=1&languages.limit=6&isocalendar=1&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api?username=marcelohasilva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="165" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohasilva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="165" />
 </div>
 
 ---
