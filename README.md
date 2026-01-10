@@ -31,9 +31,7 @@ Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que une
 ### 📊 Estatísticas
 
 <div align="center">
-  
-  ![GitHub stats](https://img.shields.io/badge/GitHub-Stats-blue)
-  ![Repos](https://img.shields.io/badge/Repos-public-brightgreen)
+   <img src="https://metrics.lecoq.io/marcelohasilva?template=classic&languages=1&languages.limit=6&isocalendar=1&theme=tokyonight" />
 </div>
 
 ---
