@@ -31,8 +31,8 @@ Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que une
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelohasilva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohasilva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcelohasilva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcelohasilva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" />
 </div>
 
 ---
