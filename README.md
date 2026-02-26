@@ -3,14 +3,24 @@
 <h1 align="center">👋 Olá, eu sou Marcelo Henrique</h1>
 
 <p align="center">
-  Desenvolvedor Front-End | Estudante de Sistema para Internet
+  Front-End Developer • React • TypeScript
 </p>
 
 ---
 
 ### 🧠 Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento web. Busco sempre aprender novas ferramentas e boas práticas para criar interfaces modernas, acessíveis e responsivas.  
-Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que unem performance e design.
+Sou desenvolvedor Front-End focado em React e TypeScript.  
+Tenho interesse em arquitetura de aplicações, performance e design de interfaces modernas.
+
+Atualmente desenvolvo projetos reais como sistemas de gerenciamento e jogos web, buscando evoluir para aplicações em escala.
+
+---
+
+### 🧱 Atualmente construindo
+
+- 📱 MarketHub — sistema completo de vendas
+- 💣 Minesweeper — jogo com animações e lógica avançada
+- 📚 Estudando arquitetura front-end e Next.js
 
 ---
 
@@ -31,8 +41,9 @@ Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que une
 ### 📊 Estatísticas
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=marcelohasilva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="165" /> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohasilva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="165" />
+   <img src="https://github-readme-stats.vercel.app/api?username=marcelohasilva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="165" /> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelohasilva&theme=tokyonight&hide_border=true" height="165" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohasilva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" />
 </div>
 
 ---
@@ -54,6 +65,15 @@ Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que une
 
 ---
 
+### 🎯 Objetivos 2026
+
+- Aprender Next.js e SSR  
+- Criar backend próprio em Node  
+- Publicar MarketHub online  
+- Conseguir estágio front-end  
+
+---
+
 ### 📫 Contato e Redes
 
 <p align="center">
@@ -72,6 +92,3 @@ Atualmente estou focado em **React, TypeScript**, desenvolvendo projetos que une
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marcelohasilva&color=0078D4&style=flat-square" alt="Visualizações de perfil" />
 </p>
-
-
-
