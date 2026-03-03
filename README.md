@@ -1,4 +1,4 @@
-<!-- 🌐 GitHub Profile README - Marcelo Henrique Silva -->
+
 
 <h1 align="center">👋 Olá, eu sou Marcelo Henrique</h1>
 
