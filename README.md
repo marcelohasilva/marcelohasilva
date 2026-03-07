@@ -19,7 +19,7 @@ Atualmente desenvolvo projetos reais como sistemas de gerenciamento e jogos web,
 ### 🧱 Atualmente construindo
 
 - 📱 MarketHub — sistema completo de vendas
-- 💣 Minesweeper — jogo com animações e lógica avançada
+- 📚 ShelfJolt — biblioteca virtual para gerenciamento e acesso digital a livros
 - 📚 Estudando arquitetura front-end e Next.js
 
 ---
@@ -28,7 +28,7 @@ Atualmente desenvolvo projetos reais como sistemas de gerenciamento e jogos web,
 
 #### 🧩 Linguagens e Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,php,mysql,next" />
 </div>
 
 #### ⚙️ Ferramentas e Tecnologias
@@ -60,8 +60,9 @@ Atualmente desenvolvo projetos reais como sistemas de gerenciamento e jogos web,
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [💣 Minesweeper Game](https://github.com/marcelohasilva/minesweeper) | Um jogo Campo Minado feito em Svelte com animações e som. | Svelte, TypeScript, CSS |
-| [📱 MarketHub](https://github.com/marcelohasilva/markethub) | Sistema de gerenciamento de vendas e produtos. | React, TailwindCSS, PHP |
+| [💣 Minesweeper](https://github.com/RicardoNsm/Minesweeper) | Um jogo Campo Minado feito em Svelte com animações e som. | Svelte, TypeScript, CSS |
+| [📱 MarketHub](https://github.com/marcelohasilva/markethub) | Sistema de gerenciamento de vendas e produtos. | React, TailwindCSS, PHP, TypeScript |
+| [📚 ShelfJolt](https://github.com/GuilhermeMth/shelfjolt-virtual-library) | Biblioteca virtual para gerenciamento e acesso digital a livros. | React, TypeScript, TailwindCSS |
 
 ---
 
