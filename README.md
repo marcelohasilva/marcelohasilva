@@ -29,7 +29,7 @@ Atualmente desenvolvo projetos reais como sistemas de gerenciamento e jogos web,
 
 #### 🧩 Linguagens e Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,php,mysql,next" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,mysql,next" />
 </div>
 
 #### ⚙️ Ferramentas e Tecnologias
