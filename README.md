@@ -30,14 +30,24 @@ Atualmente desenvolvo projetos reais como sistemas de gerenciamento e jogos web,
 
 ### 💻 Habilidades
 
-#### 🧩 Linguagens e Frameworks
+#### 🚀 Stack Principal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,mysql,next" />
+  <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs" />
 </div>
 
-#### ⚙️ Ferramentas e Tecnologias
+#### 🧩 Front-end
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,svelte,tailwind" />
+</div>
+
+#### ⚙️ Back-end & Banco de Dados
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</div>
+
+#### 🛠️ Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </div>
 
 ---
