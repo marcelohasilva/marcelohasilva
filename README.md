@@ -19,9 +19,12 @@ Atualmente desenvolvo projetos reais como sistemas de gerenciamento e jogos web,
 ### 🧱 Atualmente construindo
 
 - 📱 MarketHub — sistema completo de vendas
-- 📚 ShelfJolt — biblioteca virtual para gerenciamento e acesso digital a livros
-- 📚 Estudando arquitetura front-end e Next.js
-- ☕ Estudando Java e QA (Almaviva)
+- 📚 ShelfJolt — biblioteca virtual para gerenciamento e acesso digital de livros
+
+### 📚 Atualmente estudando
+
+- 🚀 Formação TypeScript Fullstack Developer (DIO)
+- ⚛️ Arquitetura Front-end e Next.js
 
 ---
 
